@@ -6,6 +6,7 @@ Learn Web Development with Rails*](https://www.railstutorial.org/)
 (6th Edition)
 by [Michael Hartl](https://www.michaelhartl.com/).
 
+To view on Heroku: [Click here](https://gentle-tundra-81900.herokuapp.com/)
 ## License
 
 All source code in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
