@@ -1,4 +1,4 @@
-# Ruby on Rails Tutorial sample application
+# Ruby on Rails Tutorial toy application
 
 This is the toy application for
 [*Ruby on Rails Tutorial:
