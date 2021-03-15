@@ -7,6 +7,16 @@ Learn Web Development with Rails*](https://www.railstutorial.org/)
 by [Michael Hartl](https://www.michaelhartl.com/).
 
 To view on Heroku: [Click here](https://gentle-tundra-81900.herokuapp.com/)
+#### Quick routes
+* ```/``` or ```/users``` -> view all users
+* ```/users/new``` -> create new user
+* ```/users/:id``` -> view user with id
+* ```/users/:id``` -> edit user with id
+* ```/microposts``` -> view all microposts
+* ```/microposts/new``` -> create new micropost
+* ```/microposts/:id``` -> view micropost with id
+* ```/microposts/:id/edit``` -> edit micropost with id
+
 ## License
 
 All source code in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
